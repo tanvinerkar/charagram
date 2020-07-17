@@ -126,7 +126,7 @@ else:
     params.clip = None
 
 model = None
-print sys.argv
+print(sys.argv)
 
 if params.domain == "pos":
     trainexamples = utils.get_pos_data(params.traindata)

@@ -1,0 +1,5 @@
+numpy==1.15
+scipy
+theano==0.7
+keras
+lasagne
